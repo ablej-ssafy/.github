@@ -271,22 +271,22 @@ AI : GhatGPT API, Llama, FastAPI, celery
 
 ### [커밋 컨벤션 🎯](https://www.notion.so/11ff07ca98df81199ddbffe1d083674d)
 
-- `[FEAT]` : 새로운 기능 추가
+- `feat` : 새로운 기능 추가
 
-- `[FIX]` : 버그 수정
+- `fix` : 버그 수정
 
-- `[DOCS]` : 문서 수정
+- `docs` : 문서 수정
 
-- `[STYLE]` : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
+- `style` : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
 
-- `[REFACTOR]`: 코드 리펙토링
+- `refactor`: 코드 리펙토링
 
-- `[TEST]` : 테스트 코드, 리펙토링 테스트 코드 추가
+- `test` : 테스트 코드, 리펙토링 테스트 코드 추가
 
-- `[CHORE]` : 빌드 업무 수정, 패키지 매니저 수정
+- `chore` : 빌드 업무 수정, 패키지 매니저 수정
 
-- `[DESIGN]` : CSS 등 사용자 UI 디자인 변경
+- `design` : CSS 등 사용자 UI 디자인 변경
 
-- `[!HOTFIX]` : 급하게 치명적인 버그를 고쳐야 하는 경우
+- `hotfix` : 급하게 치명적인 버그를 고쳐야 하는 경우
 
-- `[MERGED]` : 만약 Merge 할 때 Conflict가 발생할 경우, 사용할 커밋 유형
+- `merge` : 만약 Merge 할 때 Conflict가 발생할 경우, 사용할 커밋 유형
