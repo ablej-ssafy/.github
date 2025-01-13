@@ -12,7 +12,7 @@
 
 <br>
 
-# 프로젝트 소개
+# 📄 프로젝트 소개
 
 ## 기획 배경
 
@@ -82,7 +82,7 @@ AI를 활용한 채용 공고 추천과, 이력서 및 포트폴리오 관리를
 
 <br><br><br>
 
-# 프로젝트 설계
+# 📄 프로젝트 설계
 
 ## 개발 환경
 
@@ -153,7 +153,7 @@ AI : GhatGPT API, Llama, FastAPI, celery
 
 <br><br><br>
 
-# 기능 소개
+# 📄 기능 소개
 
 ### 1. 맞춤 채용 공고 추천
 
@@ -259,7 +259,7 @@ AI : GhatGPT API, Llama, FastAPI, celery
 
 <br><br><br>
 
-# 산출물
+# 📄 산출물
 
 ##### [⚙ Architecture](./readMeImage/PROJECT/Swagger.png)
 
